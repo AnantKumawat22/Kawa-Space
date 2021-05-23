@@ -1,0 +1,73 @@
+.App-header{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: 35px;
+    margin: 50px 90px;
+}
+
+.Frame_15{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    margin-left: auto;
+    width: 237px;
+    height: 30px;
+}
+
+.Text{
+    width: 158px;
+    height: 35px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 145%;
+    color: #000000;
+}
+
+.Pricing{
+    width: 60px;
+    height: 26px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 200%;
+    color: #000000;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 0px 10px;
+}
+
+.Download{
+    width: 76px;
+    height: 26px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 200%;
+    color: #000000;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.Product{
+    width: 60px;
+    height: 26px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 200%;
+    color: #000000;
+    flex: none;
+    border-bottom: 3px solid red;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+}

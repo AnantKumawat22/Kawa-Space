@@ -1,24 +1,19 @@
-import logo from './logo.svg';
+import { useState } from 'react';
 import './App.css';
+import Group_2 from './Group_2';
+import Group_5 from './Group_5';
+import Group_6 from './Group_6';
 
 function App() {
+
+  const [bigcard, setBigcard] = useState(null);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Group_2 />
+      <Group_5 bigcard={bigcard} />
+      <Group_6 setBigcard={setBigcard} />
+    </>
   );
 }
 
