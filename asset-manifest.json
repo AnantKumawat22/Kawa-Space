@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Kawa-Space/static/css/main.53d23de6.chunk.css",
+    "main.js": "/Kawa-Space/static/js/main.73e74acd.chunk.js",
+    "main.js.map": "/Kawa-Space/static/js/main.73e74acd.chunk.js.map",
+    "runtime-main.js": "/Kawa-Space/static/js/runtime-main.86854eac.js",
+    "runtime-main.js.map": "/Kawa-Space/static/js/runtime-main.86854eac.js.map",
+    "static/js/2.ed0315cc.chunk.js": "/Kawa-Space/static/js/2.ed0315cc.chunk.js",
+    "static/js/2.ed0315cc.chunk.js.map": "/Kawa-Space/static/js/2.ed0315cc.chunk.js.map",
+    "index.html": "/Kawa-Space/index.html",
+    "static/css/main.53d23de6.chunk.css.map": "/Kawa-Space/static/css/main.53d23de6.chunk.css.map",
+    "static/js/2.ed0315cc.chunk.js.LICENSE.txt": "/Kawa-Space/static/js/2.ed0315cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86854eac.js",
+    "static/js/2.ed0315cc.chunk.js",
+    "static/css/main.53d23de6.chunk.css",
+    "static/js/main.73e74acd.chunk.js"
+  ]
+}
