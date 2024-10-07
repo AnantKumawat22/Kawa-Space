@@ -19,7 +19,7 @@ function Group_6({ setBigcard }) {
     }, []);
 
     function open(detail) {
-        setBigcard(detail)
+        setBigcard(detail);
     }
     return (
         <div className="Group_6">
